@@ -1,0 +1,5 @@
+DOMAIN = "ewelink_aiot"
+CONF_SERVER = "server"
+CLOUD = "cloud"
+DEVICE = "device"
+CONF_DEVICE_TYPE = "device_type"

@@ -1,0 +1,26 @@
+{
+    "config": {
+        "error": {
+            "cant_login": "登录失败, 请检查输入项是否准确",
+            "no_devices": "未发现支持的新设备"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "username": "用户名",
+                    "password": "密码",
+                    "server": "服务器"
+                },
+                "title": "以易微联账号登录",
+                "description": "如果你的易微联用户名是手机号，请别忘记在手机号前加国家代码如: +86"
+            },
+            "device": {
+                "title": "添加新设备",
+                "description": "如果您的设备没有出现在列表中，说明目前还不支持你的设备，可以向我反馈。<br />项目地址: [https://github.com/georgezhao2010/ewelink_aiot](https://github.com/georgezhao2010/ewelink_aiot)",
+                "data": {
+                    "device_id": "选择一个设备"
+                }
+            }
+        }
+    }
+}
