@@ -1,1 +1,3 @@
-# ewelink_aiot
+# eWeLink AIoT
+
+Control your devies via eWeLink Cloud
